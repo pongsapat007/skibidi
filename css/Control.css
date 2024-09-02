@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: FABC3F;
+}
+.Happy{
+    background-color: #f8e960;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+p{
+    display: inline-block;
+    padding-left: 40px;
+}
+a{
+    text-decoration-line: none;
+    color: C7253E;
+    
+}
+a:hover{
+    color: black;
+}
+.view{
+    width: 600px;
+}
+.Mypic{
+    width: 500px;
+}
