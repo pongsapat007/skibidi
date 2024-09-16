@@ -6,7 +6,7 @@ body{
     background-color: #f8e960;
     margin-left: 30%;
     margin-right: 30%;
-    border-radius: 10px;
+    border-width: 10px;
 }
 p{
     display: inline-block;
